@@ -1,0 +1,24 @@
+{
+  "name": "loyality",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "HTTPS=true next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.45",
+    "axios": "^0.19.2",
+    "formik": "^2.1.4",
+    "lodash": "^4.17.15",
+    "next": "9.2.2",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-facebook-login": "^4.1.1",
+    "react-no-ssr": "^1.1.0",
+    "yup": "^0.28.2"
+  }
+}
