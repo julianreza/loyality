@@ -13,7 +13,7 @@
     "@material-ui/lab": "^4.0.0-alpha.45",
     "axios": "^0.19.2",
     "formik": "^2.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "next": "9.3.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
